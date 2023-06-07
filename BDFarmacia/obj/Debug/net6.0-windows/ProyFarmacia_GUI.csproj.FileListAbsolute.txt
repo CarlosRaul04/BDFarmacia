@@ -1,0 +1,132 @@
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.AssemblyReference.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\BDFarmacia.Form1.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.GenerateResource.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.AssemblyInfoInputs.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.AssemblyInfo.cs
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.CoreCompileInputs.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.exe
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.dll.config
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.deps.json
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.runtimeconfig.json
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_ADO.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BE.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BL.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BE.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BL.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_ADO.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.frmLogin.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.MDIprincipal.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.CopyComplete
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\refint\ProyFarmacia_GUI.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.genruntimeconfig.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ref\ProyFarmacia_GUI.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.exe
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.dll.config
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.deps.json
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.runtimeconfig.json
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_ADO.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BE.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BL.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BE.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BL.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_ADO.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\BDFarmacia.Form1.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.frmLogin.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.MDIprincipal.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.CopyComplete
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\refint\ProyFarmacia_GUI.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ref\ProyFarmacia_GUI.dll
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProveedorMan01.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProductoMan01.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProveedorMan01.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProveedorMan02.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.EmpleadoMan01.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.EmpleadoMan01.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProductoMan01.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProveedorMan02.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.EmpleadoMan02.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.EmpleadoMan03.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProductoMan02.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.EmpleadoMan02.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.EmpleadoMan03.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProductoMan02.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProveedorMan03.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProveedorMan03.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProductoMan03.resources
+C:\Users\Carlos\Desktop\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.Properties.Resources.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.exe
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.dll.config
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.deps.json
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.runtimeconfig.json
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_GUI.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_ADO.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BE.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BL.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BE.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_BL.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\bin\Debug\net6.0-windows\ProyFarmacia_ADO.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.AssemblyReference.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.EmpleadoMan01.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.EmpleadoMan02.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.EmpleadoMan03.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\BDFarmacia.Form1.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.frmLogin.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.MDIprincipal.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProductoMan01.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProductoMan02.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProductoMan03.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.Properties.Resources.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProveedorMan01.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProveedorMan02.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProveedorMan03.resources
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.GenerateResource.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.AssemblyInfoInputs.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.AssemblyInfo.cs
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.CoreCompileInputs.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.csproj.CopyComplete
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\refint\ProyFarmacia_GUI.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.genruntimeconfig.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ref\ProyFarmacia_GUI.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.ProductoMan03.resources
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\BDFarmacia\obj\Debug\net6.0-windows\ProyFarmacia_GUI.Properties.Resources.resources

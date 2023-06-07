@@ -1,0 +1,98 @@
+
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8" /><title>
+	 Demos WEB -ISIL Aprende haciendo
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link href="../CSS/DemoCSS.css" rel="stylesheet" type="text/css" />
+    
+    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>    
+     
+    
+</head>
+<body style="background:#f3f4ee;">
+    <form method="post" action="./TestDescargar.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="5iPYUyIK+47kSqhKbHfAAiZuWAeN/iSFYpmra6MuUpxZ+k9/hiE69L29HrAGGH3pR5U5irzT5I2zVkWQly3TSSQ28rSuZn9Aem0g3FO9WNgIQ8zoIq2wPdqotf0tXuxw9eNFgjIt2BHmSqFG0/7TxLJeUWSrjeiMYDh07wXIg6NheBbgkWseC3utQxKXvexINLlKyVMWQFf6pqLMhqsJCYfr2i1xZrqWhEnN3coh+ZXVh1EoLyAfdjz38gilPAtN7GWUt1fV49riqDgKzqlEE0UO/aW9awWd3MGLVzR1psBK9Rg0wo1zkWSR2wRcThzUN6VO/9QgqHNSzT5J3srhEtWt+tAvHhCjO/tSmo3OAfe3aqwfO+dIWqZbZDGmrSep1EiGqven9knZSg27b/e9hmR1qt8tKYyzaAW59xRSxnkoVu2l8RfRkBkBp3Rysv3OdVUpvPFgqnymB+BcsuPY1bBIUnKr5A0rftulZNhYejXeTtWx8VyXAyC6cQ88vK9LgJzKaFjq/YLLd/s09s5oF2DJG+NV/9raMm9uSbiFW2UtwqQRq1eAkE0b8PBTLGdNdeW7loiTxGbItsZhE+KQwQ==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/sitio103187/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZLuwZp3MbTIclcjDhrDz1qeh9xj1kOemNoJE8M4F7gLR17n2xNQsdTSrO7OcRrIZRQ2&amp;t=637814473746327080" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"es-PE","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"S/","NaNSymbol":"NaN","CurrencyNegativePattern":9,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":2,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"a. m.","Calendar":{"MinSupportedDateTime":"\/Date(-62135578800000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2049,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, d \u0027de\u0027 MMMM \u0027de\u0027 yyyy HH:mm:ss","LongDatePattern":"dddd, d \u0027de\u0027 MMMM \u0027de\u0027 yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"d \u0027de\u0027 MMMM","PMDesignator":"p. m.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d/MM/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM \u0027de\u0027 yyyy","AbbreviatedDayNames":["dom.","lun.","mar.","mié.","jue.","vie.","sáb."],"ShortestDayNames":["DO","LU","MA","MI","JU","VI","SA"],"DayNames":["domingo","lunes","martes","miércoles","jueves","viernes","sábado"],"AbbreviatedMonthNames":["Ene.","Feb.","Mar.","Abr.","May.","Jun.","Jul.","Ago.","Set.","Oct.","Nov.","Dic.",""],"MonthNames":["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Setiembre","Octubre","Noviembre","Diciembre",""],"IsReadOnly":true,"NativeCalendarName":"calendario gregoriano","AbbreviatedMonthGenitiveNames":["ene.","feb.","mar.","abr.","may.","jun.","jul.","ago.","set.","oct.","nov.","dic.",""],"MonthGenitiveNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","setiembre","octubre","noviembre","diciembre",""]},"eras":[1,"d. C.",null,0]};//]]>
+</script>
+
+<script src="/sitio103187/ScriptResource.axd?d=zc7utP8BYx0K_fLPu4cBGEub6bVt_jiEys35UKC1qwT9nkaVbn7HVqwe1wyg4nJ9AjmJRleQDRAJm1PXvQ61eKBkCe6gWy5_KcZObRAvgJDx2niOOzniSNQD0cSt7LuQcMr0PfNjbf30Va2WCwjhJJTySinF2lpcx4SYtRsrKeo1&amp;t=49337fe8" type="text/javascript"></script>
+<script src="/sitio103187/ScriptResource.axd?d=pnfgW_rnL4FVkco8Do2uNezHTnZjgjD00T9aVl-CxRJTsuIHE0ogl07mDtBKB4utTmNqcfcqOpSH6SuEdp2d0UM0li_ykXK091Y_Ct6UZErNIQoAa80IhOKmF7npKhujcFlhu2Yhu2MMLzC_-hOJEEBKQrkAtEKOKvNvSjoyjPc1&amp;t=49337fe8" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F1EEA793" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="4MzF+dQxvVow5xckCplpHTCmin0VG3QVCt7gJ88ueAc+qgbKWz9sQlBYTWdMdAQzVORrwGgGn6vr+n0lGx77Mu1BI9VHmweHA+TONSArZpZbQlRHy3yYHM+4CPLvF6Fe0qgqPgLyQHnDOeFASXOnRtUlqaGsnnKOaUVWfZvzBXY=" />
+</div>
+        
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+    <div>
+        
+        
+    <p class ="tituloForm">
+        Descargar archivos posteados</p>
+    <p class ="tituloForm">
+        <span id="Principal_lblMensaje" class="labelErrores">No se puede encontrar una parte de la ruta de acceso 'C:\inetpub\wwwroot\sitio103187\DemoFileUpLoadDocumentos\2.pdf'.</span>
+    </p>
+    <p class ="tituloForm">
+        <div>
+	<table cellspacing="0" cellpadding="4" rules="cols" id="Principal_grvArchivos" style="color:Black;background-color:White;border-color:#DEDFDE;border-width:1px;border-style:None;width:609px;border-collapse:collapse;">
+		<tr style="color:White;background-color:#6B696B;font-weight:bold;">
+			<th scope="col">Archivos</th><th scope="col">&nbsp;</th>
+		</tr><tr style="background-color:#F7F7DE;">
+			<td>2.pdf</td><td><a href="javascript:__doPostBack(&#39;ctl00$Principal$grvArchivos&#39;,&#39;Descargar$0&#39;)" style="color:Black;">Descargar</a></td>
+		</tr><tr style="background-color:White;">
+			<td>2892 - EXAMEN PARCIAL.docx</td><td><a href="javascript:__doPostBack(&#39;ctl00$Principal$grvArchivos&#39;,&#39;Descargar$1&#39;)" style="color:Black;">Descargar</a></td>
+		</tr><tr style="background-color:#F7F7DE;">
+			<td>Sin t&#237;tulo.png</td><td><a href="javascript:__doPostBack(&#39;ctl00$Principal$grvArchivos&#39;,&#39;Descargar$2&#39;)" style="color:Black;">Descargar</a></td>
+		</tr>
+	</table>
+</div>
+    </p>
+    <p class ="tituloForm">
+        &nbsp;</p>
+
+
+
+
+   
+
+    </div>
+    </form>
+    
+
+   
+      
+</body>
+</html>

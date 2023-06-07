@@ -1,0 +1,68 @@
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.deps.json
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.dll
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.pdb
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_ADO.dll
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BE.dll
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_ADO.pdb
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BE.pdb
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.AssemblyReference.cache
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.AssemblyInfoInputs.cache
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.AssemblyInfo.cs
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.CoreCompileInputs.cache
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.CopyComplete
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.dll
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\refint\ProyFarmacia_BL.dll
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.pdb
+C:\Desarrollo de Aplicaciones\Parcial\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ref\ProyFarmacia_BL.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.deps.json
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_ADO.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BE.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_ADO.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BE.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.AssemblyReference.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.AssemblyInfoInputs.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.AssemblyInfo.cs
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.CoreCompileInputs.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.CopyComplete
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\refint\ProyFarmacia_BL.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ref\ProyFarmacia_BL.dll
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.deps.json
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.dll
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_ADO.dll
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BE.dll
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_ADO.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BE.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.CopyComplete
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.dll
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\refint\ProyFarmacia_BL.dll
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ref\ProyFarmacia_BL.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.deps.json
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BL.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_ADO.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BE.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_ADO.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\bin\Debug\net6.0\ProyFarmacia_BE.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.AssemblyReference.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.AssemblyInfoInputs.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.AssemblyInfo.cs
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.CoreCompileInputs.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.csproj.CopyComplete
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\refint\ProyFarmacia_BL.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ProyFarmacia_BL.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyFarmacia_BL\obj\Debug\net6.0\ref\ProyFarmacia_BL.dll

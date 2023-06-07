@@ -1,0 +1,27 @@
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.csproj.AssemblyReference.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.csproj.CoreCompileInputs.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_ADO.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_ADO.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_BE.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_BE.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.csproj.CopyComplete
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_ADO.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_ADO.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_BE.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_BE.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.csproj.AssemblyReference.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.csproj.CoreCompileInputs.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.csproj.CopyComplete
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_ADO.dll
+C:\Users\Carlos\Desktop\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_ADO.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_BE.dll
+C:\Users\Carlos\Desktop\BDFarmacia\ProyWEBFarmacia_ADO\bin\Debug\ProyWEBFarmacia_BE.pdb
+C:\Users\Carlos\Desktop\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.csproj.CopyComplete
+C:\Users\Carlos\Desktop\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.dll
+C:\Users\Carlos\Desktop\BDFarmacia\ProyWEBFarmacia_ADO\obj\Debug\ProyWEBFarmacia_ADO.pdb

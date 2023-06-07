@@ -1,0 +1,12 @@
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_BE\bin\Debug\ProyWEBFarmacia_BE.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_BE\bin\Debug\ProyWEBFarmacia_BE.pdb
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_BE\obj\Debug\ProyWEBFarmacia_BE.csproj.AssemblyReference.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_BE\obj\Debug\ProyWEBFarmacia_BE.csproj.CoreCompileInputs.cache
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_BE\obj\Debug\ProyWEBFarmacia_BE.dll
+C:\Desarrollo de Aplicaciones\BDFarmacia\ProyWEBFarmacia_BE\obj\Debug\ProyWEBFarmacia_BE.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_BE\bin\Debug\ProyWEBFarmacia_BE.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_BE\bin\Debug\ProyWEBFarmacia_BE.pdb
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_BE\obj\Debug\ProyWEBFarmacia_BE.csproj.AssemblyReference.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_BE\obj\Debug\ProyWEBFarmacia_BE.csproj.CoreCompileInputs.cache
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_BE\obj\Debug\ProyWEBFarmacia_BE.dll
+D:\isil 2022\DesarrolloApps\Proyecto\BDFarmacia\ProyWEBFarmacia_BE\obj\Debug\ProyWEBFarmacia_BE.pdb
